@@ -1,4 +1,4 @@
-# PySpark-based-Sales-Data-Processing-in-Databricks using medallion architecture
+# PySpark-based-Sales-Data-Processing-in-Databricks using Medallion Architecture
 
 Transformed raw supermarket sales datasets into clean, structured tables using PySpark in Databricks Community Edition
 
